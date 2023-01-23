@@ -1,0 +1,2572 @@
+local variable 'best' referenced before assignment
+
+
+{
+   "search_request_id":"music-stable-back-sas-36.sas.yp-c.yandex.net-1674151725302490-6593994340682685240-1674151725311",
+   "text":"2rbina 2rista - Mortal Kombat",
+   "best":{
+      "type":"track",
+      "result":{
+         "id":31132569,
+         "title":"Mortal Kombat",
+         "available":true,
+         "artists":[
+            {
+               "id":3789570,
+               "error":"None",
+               "reason":"None",
+               "name":"2rbina 2rista",
+               "cover":{
+                  "type":"from-artist-photos",
+                  "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                  "items_uri":"None",
+                  "dir":"None",
+                  "version":"None",
+                  "custom":"None",
+                  "is_custom":"None",
+                  "copyright_name":"None",
+                  "copyright_cline":"None",
+                  "prefix":"54adc3a7.p.3789570/",
+                  "error":"None"
+               },
+               "various":false,
+               "composer":false,
+               "genres":[
+
+               ],
+               "og_image":"None",
+               "op_image":"None",
+               "no_pictures_from_search":"None",
+               "counts":"None",
+               "available":"None",
+               "ratings":"None",
+               "links":[
+
+               ],
+               "tickets_available":"None",
+               "likes_count":"None",
+               "popular_tracks":[
+
+               ],
+               "regions":"None",
+               "decomposed":"None",
+               "full_names":"None",
+               "hand_made_description":"None",
+               "description":"None",
+               "countries":"None",
+               "en_wikipedia_link":"None",
+               "db_aliases":"None",
+               "aliases":"None",
+               "init_date":"None",
+               "end_date":"None",
+               "ya_money_id":"None"
+            }
+         ],
+         "albums":[
+            {
+               "id":6370041,
+               "error":"None",
+               "title":"Астралопитек",
+               "track_count":9,
+               "artists":[
+                  {
+                     "id":3789570,
+                     "error":"None",
+                     "reason":"None",
+                     "name":"2rbina 2rista",
+                     "cover":{
+                        "type":"from-artist-photos",
+                        "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                        "items_uri":"None",
+                        "dir":"None",
+                        "version":"None",
+                        "custom":"None",
+                        "is_custom":"None",
+                        "copyright_name":"None",
+                        "copyright_cline":"None",
+                        "prefix":"54adc3a7.p.3789570/",
+                        "error":"None"
+                     },
+                     "various":false,
+                     "composer":false,
+                     "genres":[
+
+                     ],
+                     "og_image":"None",
+                     "op_image":"None",
+                     "no_pictures_from_search":"None",
+                     "counts":"None",
+                     "available":"None",
+                     "ratings":"None",
+                     "links":[
+
+                     ],
+                     "tickets_available":"None",
+                     "likes_count":"None",
+                     "popular_tracks":[
+
+                     ],
+                     "regions":"None",
+                     "decomposed":"None",
+                     "full_names":"None",
+                     "hand_made_description":"None",
+                     "description":"None",
+                     "countries":"None",
+                     "en_wikipedia_link":"None",
+                     "db_aliases":"None",
+                     "aliases":"None",
+                     "init_date":"None",
+                     "end_date":"None",
+                     "ya_money_id":"None"
+                  }
+               ],
+               "labels":[
+                  "Chemodanov"
+               ],
+               "available":true,
+               "available_for_premium_users":true,
+               "version":"None",
+               "cover_uri":"avatars.yandex.net/get-music-content/193823/dbfaa2f4.a.6370041-1/%%",
+               "content_warning":"explicit",
+               "original_release_year":"None",
+               "genre":"rusrap",
+               "text_color":"None",
+               "short_description":"None",
+               "description":"None",
+               "is_premiere":"None",
+               "is_banner":"None",
+               "meta_type":"music",
+               "storage_dir":"dbfaa2f4.a.6370041-1",
+               "og_image":"avatars.yandex.net/get-music-content/193823/dbfaa2f4.a.6370041-1/%%",
+               "buy":"None",
+               "recent":false,
+               "very_important":false,
+               "available_for_mobile":true,
+               "available_partially":false,
+               "bests":[
+                  31132563,
+                  31132560
+               ],
+               "duplicates":[
+
+               ],
+               "prerolls":"None",
+               "volumes":"None",
+               "year":2016,
+               "release_date":"2016-09-13T00:00:00+03:00",
+               "type":"None",
+               "track_position":{
+                  "volume":1,
+                  "index":9
+               },
+               "regions":[
+                  "RUSSIA",
+                  "RUSSIA_PREMIUM"
+               ],
+               "available_as_rbt":"None",
+               "lyrics_available":"None",
+               "remember_position":"None",
+               "albums":[
+
+               ],
+               "duration_ms":"None",
+               "explicit":"None",
+               "start_date":"None",
+               "likes_count":1388,
+               "deprecation":"None",
+               "available_regions":[
+
+               ]
+            }
+         ],
+         "available_for_premium_users":true,
+         "lyrics_available":false,
+         "poetry_lover_matches":[
+
+         ],
+         "best":"None",
+         "real_id":"31132569",
+         "og_image":"avatars.yandex.net/get-music-content/193823/dbfaa2f4.a.6370041-1/%%",
+         "type":"music",
+         "cover_uri":"avatars.yandex.net/get-music-content/193823/dbfaa2f4.a.6370041-1/%%",
+         "major":{
+            "id":39,
+            "name":"ORCHARD"
+         },
+         "duration_ms":240840,
+         "storage_dir":"51327_109b74ca.36526310.1.609676",
+         "file_size":0,
+         "substituted":"None",
+         "matched_track":"None",
+         "normalization":"None",
+         "error":"None",
+         "can_publish":"None",
+         "state":"None",
+         "desired_visibility":"None",
+         "filename":"None",
+         "user_info":"None",
+         "meta_data":"None",
+         "regions":[
+            "RUSSIA",
+            "RUSSIA_PREMIUM"
+         ],
+         "available_as_rbt":true,
+         "content_warning":"explicit",
+         "explicit":true,
+         "preview_duration_ms":30000,
+         "available_full_without_permission":false,
+         "version":"None",
+         "remember_position":false,
+         "background_video_uri":"None",
+         "short_description":"None",
+         "is_suitable_for_children":"None",
+         "download_info":"None"
+      },
+      "text":"None"
+   },
+   "albums":"None",
+   "artists":"None",
+   "playlists":"None",
+   "tracks":{
+      "type":"track",
+      "total":9,
+      "per_page":20,
+      "order":0,
+      "results":[
+         {
+            "id":31132569,
+            "title":"Mortal Kombat",
+            "available":true,
+            "artists":[
+               {
+                  "id":3789570,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"2rbina 2rista",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"54adc3a7.p.3789570/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               }
+            ],
+            "albums":[
+               {
+                  "id":6370041,
+                  "error":"None",
+                  "title":"Астралопитек",
+                  "track_count":9,
+                  "artists":[
+                     {
+                        "id":3789570,
+                        "error":"None",
+                        "reason":"None",
+                        "name":"2rbina 2rista",
+                        "cover":{
+                           "type":"from-artist-photos",
+                           "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                           "items_uri":"None",
+                           "dir":"None",
+                           "version":"None",
+                           "custom":"None",
+                           "is_custom":"None",
+                           "copyright_name":"None",
+                           "copyright_cline":"None",
+                           "prefix":"54adc3a7.p.3789570/",
+                           "error":"None"
+                        },
+                        "various":false,
+                        "composer":false,
+                        "genres":[
+
+                        ],
+                        "og_image":"None",
+                        "op_image":"None",
+                        "no_pictures_from_search":"None",
+                        "counts":"None",
+                        "available":"None",
+                        "ratings":"None",
+                        "links":[
+
+                        ],
+                        "tickets_available":"None",
+                        "likes_count":"None",
+                        "popular_tracks":[
+
+                        ],
+                        "regions":"None",
+                        "decomposed":"None",
+                        "full_names":"None",
+                        "hand_made_description":"None",
+                        "description":"None",
+                        "countries":"None",
+                        "en_wikipedia_link":"None",
+                        "db_aliases":"None",
+                        "aliases":"None",
+                        "init_date":"None",
+                        "end_date":"None",
+                        "ya_money_id":"None"
+                     }
+                  ],
+                  "labels":[
+                     "Chemodanov"
+                  ],
+                  "available":true,
+                  "available_for_premium_users":true,
+                  "version":"None",
+                  "cover_uri":"avatars.yandex.net/get-music-content/193823/dbfaa2f4.a.6370041-1/%%",
+                  "content_warning":"explicit",
+                  "original_release_year":"None",
+                  "genre":"rusrap",
+                  "text_color":"None",
+                  "short_description":"None",
+                  "description":"None",
+                  "is_premiere":"None",
+                  "is_banner":"None",
+                  "meta_type":"music",
+                  "storage_dir":"dbfaa2f4.a.6370041-1",
+                  "og_image":"avatars.yandex.net/get-music-content/193823/dbfaa2f4.a.6370041-1/%%",
+                  "buy":"None",
+                  "recent":false,
+                  "very_important":false,
+                  "available_for_mobile":true,
+                  "available_partially":false,
+                  "bests":[
+                     31132563,
+                     31132560
+                  ],
+                  "duplicates":[
+
+                  ],
+                  "prerolls":"None",
+                  "volumes":"None",
+                  "year":2016,
+                  "release_date":"2016-09-13T00:00:00+03:00",
+                  "type":"None",
+                  "track_position":{
+                     "volume":1,
+                     "index":9
+                  },
+                  "regions":[
+                     "RUSSIA",
+                     "RUSSIA_PREMIUM"
+                  ],
+                  "available_as_rbt":"None",
+                  "lyrics_available":"None",
+                  "remember_position":"None",
+                  "albums":[
+
+                  ],
+                  "duration_ms":"None",
+                  "explicit":"None",
+                  "start_date":"None",
+                  "likes_count":1388,
+                  "deprecation":"None",
+                  "available_regions":[
+
+                  ]
+               }
+            ],
+            "available_for_premium_users":true,
+            "lyrics_available":false,
+            "poetry_lover_matches":[
+
+            ],
+            "best":"None",
+            "real_id":"31132569",
+            "og_image":"avatars.yandex.net/get-music-content/193823/dbfaa2f4.a.6370041-1/%%",
+            "type":"music",
+            "cover_uri":"avatars.yandex.net/get-music-content/193823/dbfaa2f4.a.6370041-1/%%",
+            "major":{
+               "id":39,
+               "name":"ORCHARD"
+            },
+            "duration_ms":240840,
+            "storage_dir":"51327_109b74ca.36526310.1.609676",
+            "file_size":0,
+            "substituted":"None",
+            "matched_track":"None",
+            "normalization":"None",
+            "error":"None",
+            "can_publish":"None",
+            "state":"None",
+            "desired_visibility":"None",
+            "filename":"None",
+            "user_info":"None",
+            "meta_data":"None",
+            "regions":[
+               "RUSSIA",
+               "RUSSIA_PREMIUM"
+            ],
+            "available_as_rbt":true,
+            "content_warning":"explicit",
+            "explicit":true,
+            "preview_duration_ms":30000,
+            "available_full_without_permission":false,
+            "version":"None",
+            "remember_position":false,
+            "background_video_uri":"None",
+            "short_description":"None",
+            "is_suitable_for_children":"None",
+            "download_info":"None"
+         },
+         {
+            "id":56533615,
+            "title":"2rbina 2rista",
+            "available":true,
+            "artists":[
+               {
+                  "id":3789570,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"2rbina 2rista",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"54adc3a7.p.3789570/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               }
+            ],
+            "albums":[
+               {
+                  "id":8379305,
+                  "error":"None",
+                  "title":"2rbina 2rista",
+                  "track_count":12,
+                  "artists":[
+                     {
+                        "id":3789570,
+                        "error":"None",
+                        "reason":"None",
+                        "name":"2rbina 2rista",
+                        "cover":{
+                           "type":"from-artist-photos",
+                           "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                           "items_uri":"None",
+                           "dir":"None",
+                           "version":"None",
+                           "custom":"None",
+                           "is_custom":"None",
+                           "copyright_name":"None",
+                           "copyright_cline":"None",
+                           "prefix":"54adc3a7.p.3789570/",
+                           "error":"None"
+                        },
+                        "various":false,
+                        "composer":false,
+                        "genres":[
+
+                        ],
+                        "og_image":"None",
+                        "op_image":"None",
+                        "no_pictures_from_search":"None",
+                        "counts":"None",
+                        "available":"None",
+                        "ratings":"None",
+                        "links":[
+
+                        ],
+                        "tickets_available":"None",
+                        "likes_count":"None",
+                        "popular_tracks":[
+
+                        ],
+                        "regions":"None",
+                        "decomposed":"None",
+                        "full_names":"None",
+                        "hand_made_description":"None",
+                        "description":"None",
+                        "countries":"None",
+                        "en_wikipedia_link":"None",
+                        "db_aliases":"None",
+                        "aliases":"None",
+                        "init_date":"None",
+                        "end_date":"None",
+                        "ya_money_id":"None"
+                     }
+                  ],
+                  "labels":[
+                     "Chemodanov"
+                  ],
+                  "available":true,
+                  "available_for_premium_users":true,
+                  "version":"None",
+                  "cover_uri":"avatars.yandex.net/get-music-content/98892/2f66205c.a.8379305-1/%%",
+                  "content_warning":"explicit",
+                  "original_release_year":"None",
+                  "genre":"rusrap",
+                  "text_color":"None",
+                  "short_description":"None",
+                  "description":"None",
+                  "is_premiere":"None",
+                  "is_banner":"None",
+                  "meta_type":"music",
+                  "storage_dir":"2f66205c.a.8379305-1",
+                  "og_image":"avatars.yandex.net/get-music-content/98892/2f66205c.a.8379305-1/%%",
+                  "buy":"None",
+                  "recent":false,
+                  "very_important":false,
+                  "available_for_mobile":true,
+                  "available_partially":false,
+                  "bests":[
+                     56533615,
+                     56533620,
+                     56533616
+                  ],
+                  "duplicates":[
+
+                  ],
+                  "prerolls":"None",
+                  "volumes":"None",
+                  "year":2019,
+                  "release_date":"2019-08-15T00:00:00+03:00",
+                  "type":"None",
+                  "track_position":{
+                     "volume":1,
+                     "index":1
+                  },
+                  "regions":[
+                     "RUSSIA",
+                     "RUSSIA_PREMIUM"
+                  ],
+                  "available_as_rbt":"None",
+                  "lyrics_available":"None",
+                  "remember_position":"None",
+                  "albums":[
+
+                  ],
+                  "duration_ms":"None",
+                  "explicit":"None",
+                  "start_date":"None",
+                  "likes_count":1340,
+                  "deprecation":"None",
+                  "available_regions":[
+
+                  ]
+               }
+            ],
+            "available_for_premium_users":true,
+            "lyrics_available":false,
+            "poetry_lover_matches":[
+
+            ],
+            "best":"None",
+            "real_id":"56533615",
+            "og_image":"avatars.yandex.net/get-music-content/98892/2f66205c.a.8379305-1/%%",
+            "type":"music",
+            "cover_uri":"avatars.yandex.net/get-music-content/98892/2f66205c.a.8379305-1/%%",
+            "major":{
+               "id":39,
+               "name":"ORCHARD"
+            },
+            "duration_ms":202990,
+            "storage_dir":"51327_109b74ca.36526310.1.609676",
+            "file_size":0,
+            "substituted":"None",
+            "matched_track":"None",
+            "normalization":"None",
+            "error":"None",
+            "can_publish":"None",
+            "state":"None",
+            "desired_visibility":"None",
+            "filename":"None",
+            "user_info":"None",
+            "meta_data":"None",
+            "regions":[
+               "RUSSIA",
+               "RUSSIA_PREMIUM"
+            ],
+            "available_as_rbt":true,
+            "content_warning":"explicit",
+            "explicit":true,
+            "preview_duration_ms":30000,
+            "available_full_without_permission":false,
+            "version":"None",
+            "remember_position":false,
+            "background_video_uri":"None",
+            "short_description":"None",
+            "is_suitable_for_children":"None",
+            "download_info":"None"
+         },
+         {
+            "id":36695250,
+            "title":"Мацай",
+            "available":true,
+            "artists":[
+               {
+                  "id":3789570,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"2rbina 2rista",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"54adc3a7.p.3789570/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               },
+               {
+                  "id":3204612,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"Тони Раут",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/5576540/68ea2e7c.p.3204612/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"68ea2e7c.p.3204612/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               }
+            ],
+            "albums":[
+               {
+                  "id":6370045,
+                  "error":"None",
+                  "title":"Fuckality",
+                  "track_count":10,
+                  "artists":[
+                     {
+                        "id":3789570,
+                        "error":"None",
+                        "reason":"None",
+                        "name":"2rbina 2rista",
+                        "cover":{
+                           "type":"from-artist-photos",
+                           "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                           "items_uri":"None",
+                           "dir":"None",
+                           "version":"None",
+                           "custom":"None",
+                           "is_custom":"None",
+                           "copyright_name":"None",
+                           "copyright_cline":"None",
+                           "prefix":"54adc3a7.p.3789570/",
+                           "error":"None"
+                        },
+                        "various":false,
+                        "composer":false,
+                        "genres":[
+
+                        ],
+                        "og_image":"None",
+                        "op_image":"None",
+                        "no_pictures_from_search":"None",
+                        "counts":"None",
+                        "available":"None",
+                        "ratings":"None",
+                        "links":[
+
+                        ],
+                        "tickets_available":"None",
+                        "likes_count":"None",
+                        "popular_tracks":[
+
+                        ],
+                        "regions":"None",
+                        "decomposed":"None",
+                        "full_names":"None",
+                        "hand_made_description":"None",
+                        "description":"None",
+                        "countries":"None",
+                        "en_wikipedia_link":"None",
+                        "db_aliases":"None",
+                        "aliases":"None",
+                        "init_date":"None",
+                        "end_date":"None",
+                        "ya_money_id":"None"
+                     }
+                  ],
+                  "labels":[
+                     "Chemodanov"
+                  ],
+                  "available":true,
+                  "available_for_premium_users":true,
+                  "version":"None",
+                  "cover_uri":"avatars.yandex.net/get-music-content/193823/d7cc9086.a.6370045-1/%%",
+                  "content_warning":"explicit",
+                  "original_release_year":"None",
+                  "genre":"rusrap",
+                  "text_color":"None",
+                  "short_description":"None",
+                  "description":"None",
+                  "is_premiere":"None",
+                  "is_banner":"None",
+                  "meta_type":"music",
+                  "storage_dir":"d7cc9086.a.6370045-1",
+                  "og_image":"avatars.yandex.net/get-music-content/193823/d7cc9086.a.6370045-1/%%",
+                  "buy":"None",
+                  "recent":false,
+                  "very_important":false,
+                  "available_for_mobile":true,
+                  "available_partially":false,
+                  "bests":[
+                     36695254,
+                     36695250
+                  ],
+                  "duplicates":[
+
+                  ],
+                  "prerolls":"None",
+                  "volumes":"None",
+                  "year":2017,
+                  "release_date":"2017-08-25T00:00:00+03:00",
+                  "type":"None",
+                  "track_position":{
+                     "volume":1,
+                     "index":2
+                  },
+                  "regions":[
+                     "RUSSIA",
+                     "RUSSIA_PREMIUM"
+                  ],
+                  "available_as_rbt":"None",
+                  "lyrics_available":"None",
+                  "remember_position":"None",
+                  "albums":[
+
+                  ],
+                  "duration_ms":"None",
+                  "explicit":"None",
+                  "start_date":"None",
+                  "likes_count":1260,
+                  "deprecation":"None",
+                  "available_regions":[
+
+                  ]
+               }
+            ],
+            "available_for_premium_users":true,
+            "lyrics_available":false,
+            "poetry_lover_matches":[
+
+            ],
+            "best":"None",
+            "real_id":"36695250",
+            "og_image":"avatars.yandex.net/get-music-content/193823/d7cc9086.a.6370045-1/%%",
+            "type":"music",
+            "cover_uri":"avatars.yandex.net/get-music-content/193823/d7cc9086.a.6370045-1/%%",
+            "major":{
+               "id":39,
+               "name":"ORCHARD"
+            },
+            "duration_ms":261270,
+            "storage_dir":"51327_109b74ca.36526310.1.609676",
+            "file_size":0,
+            "substituted":"None",
+            "matched_track":"None",
+            "normalization":"None",
+            "error":"None",
+            "can_publish":"None",
+            "state":"None",
+            "desired_visibility":"None",
+            "filename":"None",
+            "user_info":"None",
+            "meta_data":"None",
+            "regions":[
+               "RUSSIA",
+               "RUSSIA_PREMIUM"
+            ],
+            "available_as_rbt":true,
+            "content_warning":"explicit",
+            "explicit":true,
+            "preview_duration_ms":30000,
+            "available_full_without_permission":false,
+            "version":"None",
+            "remember_position":false,
+            "background_video_uri":"None",
+            "short_description":"None",
+            "is_suitable_for_children":"None",
+            "download_info":"None"
+         },
+         {
+            "id":31132716,
+            "title":"Бруталити",
+            "available":true,
+            "artists":[
+               {
+                  "id":3789570,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"2rbina 2rista",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"54adc3a7.p.3789570/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               }
+            ],
+            "albums":[
+               {
+                  "id":6370035,
+                  "error":"None",
+                  "title":"Бруталити",
+                  "track_count":1,
+                  "artists":[
+                     {
+                        "id":3789570,
+                        "error":"None",
+                        "reason":"None",
+                        "name":"2rbina 2rista",
+                        "cover":{
+                           "type":"from-artist-photos",
+                           "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                           "items_uri":"None",
+                           "dir":"None",
+                           "version":"None",
+                           "custom":"None",
+                           "is_custom":"None",
+                           "copyright_name":"None",
+                           "copyright_cline":"None",
+                           "prefix":"54adc3a7.p.3789570/",
+                           "error":"None"
+                        },
+                        "various":false,
+                        "composer":false,
+                        "genres":[
+
+                        ],
+                        "og_image":"None",
+                        "op_image":"None",
+                        "no_pictures_from_search":"None",
+                        "counts":"None",
+                        "available":"None",
+                        "ratings":"None",
+                        "links":[
+
+                        ],
+                        "tickets_available":"None",
+                        "likes_count":"None",
+                        "popular_tracks":[
+
+                        ],
+                        "regions":"None",
+                        "decomposed":"None",
+                        "full_names":"None",
+                        "hand_made_description":"None",
+                        "description":"None",
+                        "countries":"None",
+                        "en_wikipedia_link":"None",
+                        "db_aliases":"None",
+                        "aliases":"None",
+                        "init_date":"None",
+                        "end_date":"None",
+                        "ya_money_id":"None"
+                     }
+                  ],
+                  "labels":[
+                     "Chemodanov"
+                  ],
+                  "available":true,
+                  "available_for_premium_users":true,
+                  "version":"None",
+                  "cover_uri":"avatars.yandex.net/get-music-content/114728/536088bc.a.6370035-1/%%",
+                  "content_warning":"explicit",
+                  "original_release_year":"None",
+                  "genre":"rusrap",
+                  "text_color":"None",
+                  "short_description":"None",
+                  "description":"None",
+                  "is_premiere":"None",
+                  "is_banner":"None",
+                  "meta_type":"music",
+                  "storage_dir":"536088bc.a.6370035-1",
+                  "og_image":"avatars.yandex.net/get-music-content/114728/536088bc.a.6370035-1/%%",
+                  "buy":"None",
+                  "recent":false,
+                  "very_important":false,
+                  "available_for_mobile":true,
+                  "available_partially":false,
+                  "bests":[
+
+                  ],
+                  "duplicates":[
+
+                  ],
+                  "prerolls":"None",
+                  "volumes":"None",
+                  "year":2016,
+                  "release_date":"2016-09-12T00:00:00+03:00",
+                  "type":"single",
+                  "track_position":{
+                     "volume":1,
+                     "index":1
+                  },
+                  "regions":[
+                     "RUSSIA",
+                     "RUSSIA_PREMIUM"
+                  ],
+                  "available_as_rbt":"None",
+                  "lyrics_available":"None",
+                  "remember_position":"None",
+                  "albums":[
+
+                  ],
+                  "duration_ms":"None",
+                  "explicit":"None",
+                  "start_date":"None",
+                  "likes_count":127,
+                  "deprecation":"None",
+                  "available_regions":[
+
+                  ]
+               }
+            ],
+            "available_for_premium_users":true,
+            "lyrics_available":false,
+            "poetry_lover_matches":[
+
+            ],
+            "best":"None",
+            "real_id":"31132716",
+            "og_image":"avatars.yandex.net/get-music-content/114728/536088bc.a.6370035-1/%%",
+            "type":"music",
+            "cover_uri":"avatars.yandex.net/get-music-content/114728/536088bc.a.6370035-1/%%",
+            "major":{
+               "id":39,
+               "name":"ORCHARD"
+            },
+            "duration_ms":206190,
+            "storage_dir":"51327_109b74ca.36526310.1.609676",
+            "file_size":0,
+            "substituted":"None",
+            "matched_track":"None",
+            "normalization":"None",
+            "error":"None",
+            "can_publish":"None",
+            "state":"None",
+            "desired_visibility":"None",
+            "filename":"None",
+            "user_info":"None",
+            "meta_data":"None",
+            "regions":[
+               "RUSSIA",
+               "RUSSIA_PREMIUM"
+            ],
+            "available_as_rbt":true,
+            "content_warning":"explicit",
+            "explicit":true,
+            "preview_duration_ms":30000,
+            "available_full_without_permission":false,
+            "version":"None",
+            "remember_position":false,
+            "background_video_uri":"None",
+            "short_description":"None",
+            "is_suitable_for_children":"None",
+            "download_info":"None"
+         },
+         {
+            "id":29727290,
+            "title":"Листики",
+            "available":true,
+            "artists":[
+               {
+                  "id":3789570,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"2rbina 2rista",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"54adc3a7.p.3789570/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               }
+            ],
+            "albums":[
+               {
+                  "id":6370040,
+                  "error":"None",
+                  "title":"Nuclear Rap",
+                  "track_count":10,
+                  "artists":[
+                     {
+                        "id":3789570,
+                        "error":"None",
+                        "reason":"None",
+                        "name":"2rbina 2rista",
+                        "cover":{
+                           "type":"from-artist-photos",
+                           "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                           "items_uri":"None",
+                           "dir":"None",
+                           "version":"None",
+                           "custom":"None",
+                           "is_custom":"None",
+                           "copyright_name":"None",
+                           "copyright_cline":"None",
+                           "prefix":"54adc3a7.p.3789570/",
+                           "error":"None"
+                        },
+                        "various":false,
+                        "composer":false,
+                        "genres":[
+
+                        ],
+                        "og_image":"None",
+                        "op_image":"None",
+                        "no_pictures_from_search":"None",
+                        "counts":"None",
+                        "available":"None",
+                        "ratings":"None",
+                        "links":[
+
+                        ],
+                        "tickets_available":"None",
+                        "likes_count":"None",
+                        "popular_tracks":[
+
+                        ],
+                        "regions":"None",
+                        "decomposed":"None",
+                        "full_names":"None",
+                        "hand_made_description":"None",
+                        "description":"None",
+                        "countries":"None",
+                        "en_wikipedia_link":"None",
+                        "db_aliases":"None",
+                        "aliases":"None",
+                        "init_date":"None",
+                        "end_date":"None",
+                        "ya_money_id":"None"
+                     }
+                  ],
+                  "labels":[
+                     "Chemodanov"
+                  ],
+                  "available":true,
+                  "available_for_premium_users":true,
+                  "version":"None",
+                  "cover_uri":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+                  "content_warning":"explicit",
+                  "original_release_year":"None",
+                  "genre":"rusrap",
+                  "text_color":"None",
+                  "short_description":"None",
+                  "description":"None",
+                  "is_premiere":"None",
+                  "is_banner":"None",
+                  "meta_type":"music",
+                  "storage_dir":"ee4fec70.a.6370040-1",
+                  "og_image":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+                  "buy":"None",
+                  "recent":false,
+                  "very_important":false,
+                  "available_for_mobile":true,
+                  "available_partially":false,
+                  "bests":[
+                     29727287,
+                     29727290
+                  ],
+                  "duplicates":[
+
+                  ],
+                  "prerolls":"None",
+                  "volumes":"None",
+                  "year":2014,
+                  "release_date":"2014-06-16T00:00:00+04:00",
+                  "type":"None",
+                  "track_position":{
+                     "volume":1,
+                     "index":4
+                  },
+                  "regions":[
+                     "RUSSIA",
+                     "RUSSIA_PREMIUM"
+                  ],
+                  "available_as_rbt":"None",
+                  "lyrics_available":"None",
+                  "remember_position":"None",
+                  "albums":[
+
+                  ],
+                  "duration_ms":"None",
+                  "explicit":"None",
+                  "start_date":"None",
+                  "likes_count":1749,
+                  "deprecation":"None",
+                  "available_regions":[
+
+                  ]
+               }
+            ],
+            "available_for_premium_users":true,
+            "lyrics_available":false,
+            "poetry_lover_matches":[
+
+            ],
+            "best":"None",
+            "real_id":"29727290",
+            "og_image":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+            "type":"music",
+            "cover_uri":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+            "major":{
+               "id":39,
+               "name":"ORCHARD"
+            },
+            "duration_ms":236370,
+            "storage_dir":"51327_109b74ca.36526310.1.609676",
+            "file_size":0,
+            "substituted":"None",
+            "matched_track":"None",
+            "normalization":"None",
+            "error":"None",
+            "can_publish":"None",
+            "state":"None",
+            "desired_visibility":"None",
+            "filename":"None",
+            "user_info":"None",
+            "meta_data":"None",
+            "regions":[
+               "RUSSIA",
+               "RUSSIA_PREMIUM"
+            ],
+            "available_as_rbt":true,
+            "content_warning":"explicit",
+            "explicit":true,
+            "preview_duration_ms":30000,
+            "available_full_without_permission":false,
+            "version":"None",
+            "remember_position":false,
+            "background_video_uri":"None",
+            "short_description":"None",
+            "is_suitable_for_children":"None",
+            "download_info":"None"
+         },
+         {
+            "id":29727292,
+            "title":"Наркотестер",
+            "available":true,
+            "artists":[
+               {
+                  "id":3789570,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"2rbina 2rista",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"54adc3a7.p.3789570/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               }
+            ],
+            "albums":[
+               {
+                  "id":6370040,
+                  "error":"None",
+                  "title":"Nuclear Rap",
+                  "track_count":10,
+                  "artists":[
+                     {
+                        "id":3789570,
+                        "error":"None",
+                        "reason":"None",
+                        "name":"2rbina 2rista",
+                        "cover":{
+                           "type":"from-artist-photos",
+                           "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                           "items_uri":"None",
+                           "dir":"None",
+                           "version":"None",
+                           "custom":"None",
+                           "is_custom":"None",
+                           "copyright_name":"None",
+                           "copyright_cline":"None",
+                           "prefix":"54adc3a7.p.3789570/",
+                           "error":"None"
+                        },
+                        "various":false,
+                        "composer":false,
+                        "genres":[
+
+                        ],
+                        "og_image":"None",
+                        "op_image":"None",
+                        "no_pictures_from_search":"None",
+                        "counts":"None",
+                        "available":"None",
+                        "ratings":"None",
+                        "links":[
+
+                        ],
+                        "tickets_available":"None",
+                        "likes_count":"None",
+                        "popular_tracks":[
+
+                        ],
+                        "regions":"None",
+                        "decomposed":"None",
+                        "full_names":"None",
+                        "hand_made_description":"None",
+                        "description":"None",
+                        "countries":"None",
+                        "en_wikipedia_link":"None",
+                        "db_aliases":"None",
+                        "aliases":"None",
+                        "init_date":"None",
+                        "end_date":"None",
+                        "ya_money_id":"None"
+                     }
+                  ],
+                  "labels":[
+                     "Chemodanov"
+                  ],
+                  "available":true,
+                  "available_for_premium_users":true,
+                  "version":"None",
+                  "cover_uri":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+                  "content_warning":"explicit",
+                  "original_release_year":"None",
+                  "genre":"rusrap",
+                  "text_color":"None",
+                  "short_description":"None",
+                  "description":"None",
+                  "is_premiere":"None",
+                  "is_banner":"None",
+                  "meta_type":"music",
+                  "storage_dir":"ee4fec70.a.6370040-1",
+                  "og_image":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+                  "buy":"None",
+                  "recent":false,
+                  "very_important":false,
+                  "available_for_mobile":true,
+                  "available_partially":false,
+                  "bests":[
+                     29727287,
+                     29727290
+                  ],
+                  "duplicates":[
+
+                  ],
+                  "prerolls":"None",
+                  "volumes":"None",
+                  "year":2014,
+                  "release_date":"2014-06-16T00:00:00+04:00",
+                  "type":"None",
+                  "track_position":{
+                     "volume":1,
+                     "index":6
+                  },
+                  "regions":[
+                     "RUSSIA",
+                     "RUSSIA_PREMIUM"
+                  ],
+                  "available_as_rbt":"None",
+                  "lyrics_available":"None",
+                  "remember_position":"None",
+                  "albums":[
+
+                  ],
+                  "duration_ms":"None",
+                  "explicit":"None",
+                  "start_date":"None",
+                  "likes_count":1749,
+                  "deprecation":"None",
+                  "available_regions":[
+
+                  ]
+               }
+            ],
+            "available_for_premium_users":true,
+            "lyrics_available":false,
+            "poetry_lover_matches":[
+
+            ],
+            "best":"None",
+            "real_id":"29727292",
+            "og_image":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+            "type":"music",
+            "cover_uri":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+            "major":{
+               "id":39,
+               "name":"ORCHARD"
+            },
+            "duration_ms":298230,
+            "storage_dir":"51327_109b74ca.36526310.1.609676",
+            "file_size":0,
+            "substituted":"None",
+            "matched_track":"None",
+            "normalization":"None",
+            "error":"None",
+            "can_publish":"None",
+            "state":"None",
+            "desired_visibility":"None",
+            "filename":"None",
+            "user_info":"None",
+            "meta_data":"None",
+            "regions":[
+               "RUSSIA",
+               "RUSSIA_PREMIUM"
+            ],
+            "available_as_rbt":true,
+            "content_warning":"explicit",
+            "explicit":true,
+            "preview_duration_ms":30000,
+            "available_full_without_permission":false,
+            "version":"None",
+            "remember_position":false,
+            "background_video_uri":"None",
+            "short_description":"None",
+            "is_suitable_for_children":"None",
+            "download_info":"None"
+         },
+         {
+            "id":47101154,
+            "title":"Папа",
+            "available":true,
+            "artists":[
+               {
+                  "id":3789570,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"2rbina 2rista",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"54adc3a7.p.3789570/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               },
+               {
+                  "id":4464712,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"ЦЫРККРИГА",
+                  "cover":"None",
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               }
+            ],
+            "albums":[
+               {
+                  "id":6370031,
+                  "error":"None",
+                  "title":"Не оправдавшие надежд своих родителей",
+                  "track_count":12,
+                  "artists":[
+                     {
+                        "id":3789570,
+                        "error":"None",
+                        "reason":"None",
+                        "name":"2rbina 2rista",
+                        "cover":{
+                           "type":"from-artist-photos",
+                           "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                           "items_uri":"None",
+                           "dir":"None",
+                           "version":"None",
+                           "custom":"None",
+                           "is_custom":"None",
+                           "copyright_name":"None",
+                           "copyright_cline":"None",
+                           "prefix":"54adc3a7.p.3789570/",
+                           "error":"None"
+                        },
+                        "various":false,
+                        "composer":false,
+                        "genres":[
+
+                        ],
+                        "og_image":"None",
+                        "op_image":"None",
+                        "no_pictures_from_search":"None",
+                        "counts":"None",
+                        "available":"None",
+                        "ratings":"None",
+                        "links":[
+
+                        ],
+                        "tickets_available":"None",
+                        "likes_count":"None",
+                        "popular_tracks":[
+
+                        ],
+                        "regions":"None",
+                        "decomposed":"None",
+                        "full_names":"None",
+                        "hand_made_description":"None",
+                        "description":"None",
+                        "countries":"None",
+                        "en_wikipedia_link":"None",
+                        "db_aliases":"None",
+                        "aliases":"None",
+                        "init_date":"None",
+                        "end_date":"None",
+                        "ya_money_id":"None"
+                     }
+                  ],
+                  "labels":[
+                     "Chemodanov"
+                  ],
+                  "available":true,
+                  "available_for_premium_users":true,
+                  "version":"None",
+                  "cover_uri":"avatars.yandex.net/get-music-content/142001/96c9ceca.a.6370031-1/%%",
+                  "content_warning":"explicit",
+                  "original_release_year":"None",
+                  "genre":"rusrap",
+                  "text_color":"None",
+                  "short_description":"None",
+                  "description":"None",
+                  "is_premiere":"None",
+                  "is_banner":"None",
+                  "meta_type":"music",
+                  "storage_dir":"96c9ceca.a.6370031-1",
+                  "og_image":"avatars.yandex.net/get-music-content/142001/96c9ceca.a.6370031-1/%%",
+                  "buy":"None",
+                  "recent":false,
+                  "very_important":false,
+                  "available_for_mobile":true,
+                  "available_partially":false,
+                  "bests":[
+                     47101151,
+                     47101156,
+                     47101155
+                  ],
+                  "duplicates":[
+
+                  ],
+                  "prerolls":"None",
+                  "volumes":"None",
+                  "year":2015,
+                  "release_date":"2015-06-16T00:00:00+03:00",
+                  "type":"None",
+                  "track_position":{
+                     "volume":1,
+                     "index":4
+                  },
+                  "regions":[
+                     "RUSSIA",
+                     "RUSSIA_PREMIUM"
+                  ],
+                  "available_as_rbt":"None",
+                  "lyrics_available":"None",
+                  "remember_position":"None",
+                  "albums":[
+
+                  ],
+                  "duration_ms":"None",
+                  "explicit":"None",
+                  "start_date":"None",
+                  "likes_count":766,
+                  "deprecation":"None",
+                  "available_regions":[
+
+                  ]
+               }
+            ],
+            "available_for_premium_users":true,
+            "lyrics_available":false,
+            "poetry_lover_matches":[
+
+            ],
+            "best":"None",
+            "real_id":"47101154",
+            "og_image":"avatars.yandex.net/get-music-content/142001/96c9ceca.a.6370031-1/%%",
+            "type":"music",
+            "cover_uri":"avatars.yandex.net/get-music-content/142001/96c9ceca.a.6370031-1/%%",
+            "major":{
+               "id":39,
+               "name":"ORCHARD"
+            },
+            "duration_ms":213230,
+            "storage_dir":"51327_109b74ca.36526310.1.609676",
+            "file_size":0,
+            "substituted":"None",
+            "matched_track":"None",
+            "normalization":"None",
+            "error":"None",
+            "can_publish":"None",
+            "state":"None",
+            "desired_visibility":"None",
+            "filename":"None",
+            "user_info":"None",
+            "meta_data":"None",
+            "regions":[
+               "RUSSIA",
+               "RUSSIA_PREMIUM"
+            ],
+            "available_as_rbt":true,
+            "content_warning":"None",
+            "explicit":false,
+            "preview_duration_ms":30000,
+            "available_full_without_permission":false,
+            "version":"None",
+            "remember_position":false,
+            "background_video_uri":"None",
+            "short_description":"None",
+            "is_suitable_for_children":"None",
+            "download_info":"None"
+         },
+         {
+            "id":29727291,
+            "title":"Ядерное гетто",
+            "available":true,
+            "artists":[
+               {
+                  "id":3789570,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"2rbina 2rista",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"54adc3a7.p.3789570/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               },
+               {
+                  "id":614414,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"Dj Spot",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/2433821/541c6a9a.p.614414/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"541c6a9a.p.614414/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               }
+            ],
+            "albums":[
+               {
+                  "id":6370040,
+                  "error":"None",
+                  "title":"Nuclear Rap",
+                  "track_count":10,
+                  "artists":[
+                     {
+                        "id":3789570,
+                        "error":"None",
+                        "reason":"None",
+                        "name":"2rbina 2rista",
+                        "cover":{
+                           "type":"from-artist-photos",
+                           "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                           "items_uri":"None",
+                           "dir":"None",
+                           "version":"None",
+                           "custom":"None",
+                           "is_custom":"None",
+                           "copyright_name":"None",
+                           "copyright_cline":"None",
+                           "prefix":"54adc3a7.p.3789570/",
+                           "error":"None"
+                        },
+                        "various":false,
+                        "composer":false,
+                        "genres":[
+
+                        ],
+                        "og_image":"None",
+                        "op_image":"None",
+                        "no_pictures_from_search":"None",
+                        "counts":"None",
+                        "available":"None",
+                        "ratings":"None",
+                        "links":[
+
+                        ],
+                        "tickets_available":"None",
+                        "likes_count":"None",
+                        "popular_tracks":[
+
+                        ],
+                        "regions":"None",
+                        "decomposed":"None",
+                        "full_names":"None",
+                        "hand_made_description":"None",
+                        "description":"None",
+                        "countries":"None",
+                        "en_wikipedia_link":"None",
+                        "db_aliases":"None",
+                        "aliases":"None",
+                        "init_date":"None",
+                        "end_date":"None",
+                        "ya_money_id":"None"
+                     }
+                  ],
+                  "labels":[
+                     "Chemodanov"
+                  ],
+                  "available":true,
+                  "available_for_premium_users":true,
+                  "version":"None",
+                  "cover_uri":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+                  "content_warning":"explicit",
+                  "original_release_year":"None",
+                  "genre":"rusrap",
+                  "text_color":"None",
+                  "short_description":"None",
+                  "description":"None",
+                  "is_premiere":"None",
+                  "is_banner":"None",
+                  "meta_type":"music",
+                  "storage_dir":"ee4fec70.a.6370040-1",
+                  "og_image":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+                  "buy":"None",
+                  "recent":false,
+                  "very_important":false,
+                  "available_for_mobile":true,
+                  "available_partially":false,
+                  "bests":[
+                     29727287,
+                     29727290
+                  ],
+                  "duplicates":[
+
+                  ],
+                  "prerolls":"None",
+                  "volumes":"None",
+                  "year":2014,
+                  "release_date":"2014-06-16T00:00:00+04:00",
+                  "type":"None",
+                  "track_position":{
+                     "volume":1,
+                     "index":5
+                  },
+                  "regions":[
+                     "RUSSIA",
+                     "RUSSIA_PREMIUM"
+                  ],
+                  "available_as_rbt":"None",
+                  "lyrics_available":"None",
+                  "remember_position":"None",
+                  "albums":[
+
+                  ],
+                  "duration_ms":"None",
+                  "explicit":"None",
+                  "start_date":"None",
+                  "likes_count":1749,
+                  "deprecation":"None",
+                  "available_regions":[
+
+                  ]
+               }
+            ],
+            "available_for_premium_users":true,
+            "lyrics_available":false,
+            "poetry_lover_matches":[
+
+            ],
+            "best":"None",
+            "real_id":"29727291",
+            "og_image":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+            "type":"music",
+            "cover_uri":"avatars.yandex.net/get-music-content/117546/ee4fec70.a.6370040-1/%%",
+            "major":{
+               "id":39,
+               "name":"ORCHARD"
+            },
+            "duration_ms":255600,
+            "storage_dir":"51327_109b74ca.36526310.1.609676",
+            "file_size":0,
+            "substituted":"None",
+            "matched_track":"None",
+            "normalization":"None",
+            "error":"None",
+            "can_publish":"None",
+            "state":"None",
+            "desired_visibility":"None",
+            "filename":"None",
+            "user_info":"None",
+            "meta_data":"None",
+            "regions":[
+               "RUSSIA",
+               "RUSSIA_PREMIUM"
+            ],
+            "available_as_rbt":true,
+            "content_warning":"explicit",
+            "explicit":true,
+            "preview_duration_ms":30000,
+            "available_full_without_permission":false,
+            "version":"None",
+            "remember_position":false,
+            "background_video_uri":"None",
+            "short_description":"None",
+            "is_suitable_for_children":"None",
+            "download_info":"None"
+         },
+         {
+            "id":36695263,
+            "title":"На моей могиле",
+            "available":true,
+            "artists":[
+               {
+                  "id":3789570,
+                  "error":"None",
+                  "reason":"None",
+                  "name":"2rbina 2rista",
+                  "cover":{
+                     "type":"from-artist-photos",
+                     "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                     "items_uri":"None",
+                     "dir":"None",
+                     "version":"None",
+                     "custom":"None",
+                     "is_custom":"None",
+                     "copyright_name":"None",
+                     "copyright_cline":"None",
+                     "prefix":"54adc3a7.p.3789570/",
+                     "error":"None"
+                  },
+                  "various":false,
+                  "composer":false,
+                  "genres":[
+
+                  ],
+                  "og_image":"None",
+                  "op_image":"None",
+                  "no_pictures_from_search":"None",
+                  "counts":"None",
+                  "available":"None",
+                  "ratings":"None",
+                  "links":[
+
+                  ],
+                  "tickets_available":"None",
+                  "likes_count":"None",
+                  "popular_tracks":[
+
+                  ],
+                  "regions":"None",
+                  "decomposed":"None",
+                  "full_names":"None",
+                  "hand_made_description":"None",
+                  "description":"None",
+                  "countries":"None",
+                  "en_wikipedia_link":"None",
+                  "db_aliases":"None",
+                  "aliases":"None",
+                  "init_date":"None",
+                  "end_date":"None",
+                  "ya_money_id":"None"
+               }
+            ],
+            "albums":[
+               {
+                  "id":6370045,
+                  "error":"None",
+                  "title":"Fuckality",
+                  "track_count":10,
+                  "artists":[
+                     {
+                        "id":3789570,
+                        "error":"None",
+                        "reason":"None",
+                        "name":"2rbina 2rista",
+                        "cover":{
+                           "type":"from-artist-photos",
+                           "uri":"avatars.yandex.net/get-music-content/33216/54adc3a7.p.3789570/%%",
+                           "items_uri":"None",
+                           "dir":"None",
+                           "version":"None",
+                           "custom":"None",
+                           "is_custom":"None",
+                           "copyright_name":"None",
+                           "copyright_cline":"None",
+                           "prefix":"54adc3a7.p.3789570/",
+                           "error":"None"
+                        },
+                        "various":false,
+                        "composer":false,
+                        "genres":[
+
+                        ],
+                        "og_image":"None",
+                        "op_image":"None",
+                        "no_pictures_from_search":"None",
+                        "counts":"None",
+                        "available":"None",
+                        "ratings":"None",
+                        "links":[
+
+                        ],
+                        "tickets_available":"None",
+                        "likes_count":"None",
+                        "popular_tracks":[
+
+                        ],
+                        "regions":"None",
+                        "decomposed":"None",
+                        "full_names":"None",
+                        "hand_made_description":"None",
+                        "description":"None",
+                        "countries":"None",
+                        "en_wikipedia_link":"None",
+                        "db_aliases":"None",
+                        "aliases":"None",
+                        "init_date":"None",
+                        "end_date":"None",
+                        "ya_money_id":"None"
+                     }
+                  ],
+                  "labels":[
+                     "Chemodanov"
+                  ],
+                  "available":true,
+                  "available_for_premium_users":true,
+                  "version":"None",
+                  "cover_uri":"avatars.yandex.net/get-music-content/193823/d7cc9086.a.6370045-1/%%",
+                  "content_warning":"explicit",
+                  "original_release_year":"None",
+                  "genre":"rusrap",
+                  "text_color":"None",
+                  "short_description":"None",
+                  "description":"None",
+                  "is_premiere":"None",
+                  "is_banner":"None",
+                  "meta_type":"music",
+                  "storage_dir":"d7cc9086.a.6370045-1",
+                  "og_image":"avatars.yandex.net/get-music-content/193823/d7cc9086.a.6370045-1/%%",
+                  "buy":"None",
+                  "recent":false,
+                  "very_important":false,
+                  "available_for_mobile":true,
+                  "available_partially":false,
+                  "bests":[
+                     36695254,
+                     36695250
+                  ],
+                  "duplicates":[
+
+                  ],
+                  "prerolls":"None",
+                  "volumes":"None",
+                  "year":2017,
+                  "release_date":"2017-08-25T00:00:00+03:00",
+                  "type":"None",
+                  "track_position":{
+                     "volume":1,
+                     "index":8
+                  },
+                  "regions":[
+                     "RUSSIA",
+                     "RUSSIA_PREMIUM"
+                  ],
+                  "available_as_rbt":"None",
+                  "lyrics_available":"None",
+                  "remember_position":"None",
+                  "albums":[
+
+                  ],
+                  "duration_ms":"None",
+                  "explicit":"None",
+                  "start_date":"None",
+                  "likes_count":1260,
+                  "deprecation":"None",
+                  "available_regions":[
+
+                  ]
+               }
+            ],
+            "available_for_premium_users":true,
+            "lyrics_available":false,
+            "poetry_lover_matches":[
+
+            ],
+            "best":"None",
+            "real_id":"36695263",
+            "og_image":"avatars.yandex.net/get-music-content/193823/d7cc9086.a.6370045-1/%%",
+            "type":"music",
+            "cover_uri":"avatars.yandex.net/get-music-content/193823/d7cc9086.a.6370045-1/%%",
+            "major":{
+               "id":39,
+               "name":"ORCHARD"
+            },
+            "duration_ms":194760,
+            "storage_dir":"51327_109b74ca.36526310.1.609676",
+            "file_size":0,
+            "substituted":"None",
+            "matched_track":"None",
+            "normalization":"None",
+            "error":"None",
+            "can_publish":"None",
+            "state":"None",
+            "desired_visibility":"None",
+            "filename":"None",
+            "user_info":"None",
+            "meta_data":"None",
+            "regions":[
+               "RUSSIA",
+               "RUSSIA_PREMIUM"
+            ],
+            "available_as_rbt":true,
+            "content_warning":"explicit",
+            "explicit":true,
+            "preview_duration_ms":30000,
+            "available_full_without_permission":false,
+            "version":"None",
+            "remember_position":false,
+            "background_video_uri":"None",
+            "short_description":"None",
+            "is_suitable_for_children":"None",
+            "download_info":"None"
+         }
+      ]
+   },
+   "videos":"None",
+   "users":"None",
+   "podcasts":"None",
+   "podcast_episodes":"None",
+   "type":"None",
+   "page":"None",
+   "per_page":"None",
+   "misspell_result":"None",
+   "misspell_original":"None",
+   "misspell_corrected":false,
+   "nocorrect":false
+}'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Search' object has no attribute 'playlist'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'get_supplement'
+name 'type_' is not defined
+sequence item 0: expected str instance, int found
+'SearchResult' object has no attribute 'result'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'replace'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'replace'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found
+NoData
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found
+sequence item 0: expected str instance, NoneType found
+sequence item 0: expected str instance, NoneType found
+sequence item 0: expected str instance, NoneType found
+sequence item 0: expected str instance, NoneType found
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'replace'
+'NoneType' object has no attribute 'replace'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+'NoneType' object has no attribute 'results'
+NoData
+'NoneType' object has no attribute 'results'
+sequence item 0: expected str instance, NoneType found

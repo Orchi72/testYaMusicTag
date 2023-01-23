@@ -1,0 +1,72 @@
+'Artist' object has no attribute 'artists'
+local variable 'best' referenced before assignment
+sequence item 0: expected str instance, NoneType found
+local variable 'best' referenced before assignment
+'Artist' object has no attribute 'artists'
+'Playlist' object has no attribute 'artists'
+'Playlist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+local variable 'best' referenced before assignment
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+local variable 'best' referenced before assignment
+local variable 'best' referenced before assignment
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+local variable 'best' referenced before assignment
+local variable 'best' referenced before assignment
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+sequence item 0: expected str instance, NoneType found
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Playlist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+sequence item 0: expected str instance, NoneType found
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Album' object has no attribute 'get_supplement'
+local variable 'best' referenced before assignment
+local variable 'best' referenced before assignment
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+local variable 'best' referenced before assignment
+'Artist' object has no attribute 'artists'
+sequence item 0: expected str instance, NoneType found
+sequence item 0: expected str instance, NoneType found
+'Artist' object has no attribute 'artists'
+'Playlist' object has no attribute 'artists'
+sequence item 0: expected str instance, NoneType found
+local variable 'best' referenced before assignment
+'Artist' object has no attribute 'artists'
+local variable 'best' referenced before assignment
+'Artist' object has no attribute 'artists'
+'Playlist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'NoneType' object has no attribute 'replace'
+'NoneType' object has no attribute 'replace'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Album' object has no attribute 'get_supplement'
+local variable 'best' referenced before assignment
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Playlist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
+'Artist' object has no attribute 'artists'
