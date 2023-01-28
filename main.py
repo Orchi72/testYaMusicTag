@@ -51,7 +51,6 @@ def send_search_request_and_print_result(query):
                 best_res = search_result.best.result
 
 
-
                 if best_res.artists:
                     artists = ', '.join(artist.name for artist in best_res.artists)
 
